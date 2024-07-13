@@ -21,7 +21,7 @@ console.log(
     "datatypeArray: " + (Array.isArray(datatypeArray) ? "array" : typeof datatypeArray)
   );
 
-var firstValue = 1948; // Task 
+var firstValue = 1948; // Task 5
 
 console.log(firstValue);
 
