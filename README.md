@@ -5,4 +5,4 @@
 The Feature request involved randomly declaring a variable with a random datatype. This was initially confusing but after some research and using <b><i>Math.random()</i></b>, I found the solution to be simpler than anticipated. Overall, it was a productive day.</p>
 
 <h1>Day 2</h1>
-<p>Today's challenges were quite easy. I had to Google quite a bit, but it was more about refreshing my memory rather than learning something new. Overall, it was a good and easy day.</p>
+<p>Today, I worked with various JavaScript operators. I performed arithmetic operations like addition, subtraction, multiplication, division, and finding the remainder. I used assignment operators to update values, compared numbers using == and ===, and evaluated conditions with logical operators. Lastly, I created a function using the ternary operator to check if a number is positive or negative. These tasks reinforced my understanding of JavaScript operators.</p>
