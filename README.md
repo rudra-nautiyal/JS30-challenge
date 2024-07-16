@@ -9,3 +9,10 @@ The Feature request involved randomly declaring a variable with a random datatyp
 
 <h1>Day 3</h1>
 <p>Today, I worked on implementing control structures using Node.js and the <b>readline</b> module for interactive input in the terminal. I explored various control structures including conditional statements (if-else) and the switch statement to handle different types of user inputs. I practiced determining whether a number is positive, negative, or zero, checked voting eligibility based on age, and compared three numbers to find the largest. Additionally, I used the switch statement to identify days of the week and implemented grading logic based on marks. I also learned to handle leap year calculations correctly by addressing common pitfalls in conditional logic. This exercise improved my understanding of control structures and interactive programming in Node.js.</p>
+
+<h1>Day 4</h1>
+<p>Today, I delved into JavaScript loops and it was both insightful and rewarding. I practiced for loops to print sequences and create multiplication tables, which clarified loop basics and variable usage. Using while loops for summing numbers and reversing sequences improved my understanding of loop conditions and accumulation.
+
+The do...while loop showed me how to ensure at least one iteration, and building a factorial calculator with user input was a challenging but fulfilling exercise in input validation. Creating star patterns was a fun way to see string methods in action with loops.
+
+Overall, I feel accomplished and more confident in handling loops and control flow in JavaScript.</p>
