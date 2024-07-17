@@ -16,3 +16,8 @@ The Feature request involved randomly declaring a variable with a random datatyp
 The do...while loop showed me how to ensure at least one iteration, and building a factorial calculator with user input was a challenging but fulfilling exercise in input validation. Creating star patterns was a fun way to see string methods in action with loops.
 
 Overall, I feel accomplished and more confident in handling loops and control flow in JavaScript.</p>
+
+<h1>Day 5</h1>
+<p>Today, I explored various JavaScript functions, which was a mix of familiar concepts and new challenges. I really enjoyed learning about arrow functions and higher-order functions, as they were new to me and added a fresh layer of understanding. Implementing simple tasks like checking if a number is even or odd, calculating squares and cubes, comparing numbers, and concatenating strings was straightforward and enjoyable.
+
+The most challenging part was the higher-order functions, especially when I had to input and use two functions together. It was a bit confusing at first, but I felt really good when I finally got it right. Overall, the day felt easier because of my prior experience with functions, making it a satisfying and rewarding learning experience.</p>
